@@ -1,0 +1,17 @@
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.UTILITY.deps.json
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.UTILITY.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.UTILITY.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.AssemblyInfo.cs
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\refint\SistemaVentas.UTILITY.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\ref\SistemaVentas.UTILITY.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.MODEL.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\bin\Debug\net7.0\SistemaVentas.MODEL.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.UTILITY\obj\Debug\net7.0\SistemaVentas.UTILITY.csproj.CopyComplete

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaVenta.DAL\SistemaVenta.DAL.csproj" />
+    <ProjectReference Include="..\SistemaVentas.DTO\SistemaVentas.DTO.csproj" />
+    <ProjectReference Include="..\SistemaVentas.MODEL\SistemaVentas.MODEL.csproj" />
+    <ProjectReference Include="..\SistemaVentas.UTILITY\SistemaVentas.UTILITY.csproj" />
+  </ItemGroup>
+
+</Project>

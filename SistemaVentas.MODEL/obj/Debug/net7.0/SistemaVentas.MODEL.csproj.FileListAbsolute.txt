@@ -1,0 +1,14 @@
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\bin\Debug\net7.0\SistemaVentas.MODEL.deps.json
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\bin\Debug\net7.0\SistemaVentas.MODEL.runtimeconfig.json
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\bin\Debug\net7.0\SistemaVentas.MODEL.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\bin\Debug\net7.0\SistemaVentas.MODEL.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.AssemblyInfo.cs
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\refint\SistemaVentas.MODEL.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\SistemaVentas.MODEL.genruntimeconfig.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.MODEL\obj\Debug\net7.0\ref\SistemaVentas.MODEL.dll

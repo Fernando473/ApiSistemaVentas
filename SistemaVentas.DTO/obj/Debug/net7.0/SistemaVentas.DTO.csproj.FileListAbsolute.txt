@@ -1,0 +1,11 @@
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\bin\Debug\net7.0\SistemaVentas.DTO.deps.json
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\bin\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\bin\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.AssemblyInfo.cs
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\refint\SistemaVentas.DTO.dll
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\ferna\Documents\Global Finances\ApiSistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\ref\SistemaVentas.DTO.dll
